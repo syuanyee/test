@@ -6225,7 +6225,7 @@
                     key: "OV5",
                     value: function(t) {
                         var e = o
-                          , r = window[e(153)][e(154)];
+                          , r = "https://shopee.tw/POP-MART-%E6%B3%A1%E6%B3%A1%E7%91%AA%E7%89%B9-%E6%B5%B7%E7%B6%BF%E5%AF%B6%E5%AF%B6-%E7%8B%82%E6%AD%A1%E5%91%A8%E5%B9%B4%E6%85%B6%E7%B3%BB%E5%88%97%E5%A0%B4%E6%99%AF%E6%89%8B%E8%BE%A6%E9%81%93%E5%85%B7%E7%8E%A9%E5%85%B7%E5%88%9B%E6%84%8F%E7%A4%BC%E7%89%A9%E7%9B%B2%E7%9B%92-i.458623340.27509196059?sp_atk=aeb54579-0591-4266-956b-00686b8ac950&xptdk=aeb54579-0591-4266-956b-00686b8ac950";
                         return r = (0,
                         V.default)(r),
                         t = (0,
