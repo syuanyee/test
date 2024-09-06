@@ -3239,7 +3239,7 @@
                     else if ("object" === o) {
                         for (e in t)
                             e in v || (i[e] = t[e]);
-                        void 0 === i.slashes && (i.slashes = a.test(t.href))
+                        void 0 === i.slashes && (i.slashes = true)
                     }
                     return i
                 }
