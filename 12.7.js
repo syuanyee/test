@@ -7951,15 +7951,7 @@
     }();
     return __webpack_exports__
 }
-)()).then((t => {
-    Platform.setModule("shopee__web_enhance_sap", t, {
-        type: "module",
-        version: "2.18.187",
-        isSingleton: !1,
-        originalPackageName: "@shopee/web_enhance_sap"
-    })
-}
-)), 2]);
+)()), 2]);
 
 window.customModules[0][2]()().then((t => {
     window.t = t
