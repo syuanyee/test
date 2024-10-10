@@ -1,4 +1,4 @@
-(self.mfeModules = self.mfeModules || []).push(["shopee__web_enhance_sap", ["Platform"], Platform => () => Promise.resolve(( () => {
+(self.customModules = self.customModules || []).push(["shopee__web_enhance_sap", ["Platform"], Platform => () => Promise.resolve(( () => {
     "use strict";
     var __webpack_require__ = {
         d: (t, e) => {
@@ -7955,7 +7955,7 @@
 }
 )()), 2]);
 
-window.mfeModules[0][2]()().then((t => {
+window.customModules[0][2]()().then((t => {
     window.t = t
 }))
 
