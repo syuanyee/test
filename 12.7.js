@@ -1345,7 +1345,7 @@
                 e.A = {
                     generateSignEntry: i[n(495)],
                     hookInit: r[n(496)],
-                    hook: r[n(497)]
+                    hook: r[n(497)],
                 }
             },
             2869: function(t, e, r) {
@@ -6240,6 +6240,7 @@
                             }
                         }
                         var e = this;
+                        window.SXb = c.SXb;
                         return function(r) {
                             return function(n, s) {
                                 var u, h, E, f, w, g, K, S, x, N, b, q, U, m, I, O, Q = k;
@@ -7865,6 +7866,7 @@
             i[t](e, e.exports, l)),
             e.exports
         }
+        window.l = l,
         l.m = i,
         E = [],
         l.O = function(t, e, r, n) {
